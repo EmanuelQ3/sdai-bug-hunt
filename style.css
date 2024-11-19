@@ -2,6 +2,13 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
+  background-image: url('assets/artspace-ai-1729925136138.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: #63131D;
+  color: whitesmoke;
 }
 
 header {
@@ -29,7 +36,7 @@ button {
   padding: 10px 20px;
   background-color: #61dafb;
   border: none;
-  color: white;
+  color: rgb(12, 12, 12);
   cursor: pointer;
 }
 
